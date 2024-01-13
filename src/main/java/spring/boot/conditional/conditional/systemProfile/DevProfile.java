@@ -1,4 +1,4 @@
-package spring.boot.conditional.conditional.SystemProfile;
+package spring.boot.conditional.conditional.systemProfile;
 
 public class DevProfile implements SystemProfile {
     @Override

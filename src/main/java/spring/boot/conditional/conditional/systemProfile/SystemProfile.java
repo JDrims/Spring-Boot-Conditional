@@ -1,4 +1,4 @@
-package spring.boot.conditional.conditional.SystemProfile;
+package spring.boot.conditional.conditional.systemProfile;
 
 public interface SystemProfile {
     String getProfile();
